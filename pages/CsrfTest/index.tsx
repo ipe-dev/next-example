@@ -23,7 +23,7 @@ const CorsTest = () => {
 
     return (
         <>
-            <h1>CORS Test Page</h1>
+            <h1>CSRF Test Page</h1>
         </>
     )
 }
